@@ -6,12 +6,8 @@
 
 
 <h3 align="center">
-    <b>BERT's best friend.</b>
+    <b>CoffeeMate</b>
 </h3>
-
-<p align="center">
-    <a href="https://www.buymeacoffee.com/brunneis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
-</p>
 
 # Installation
 > Ernie requires Python 3.6 or higher.
